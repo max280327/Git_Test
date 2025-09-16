@@ -1,1 +1,1 @@
-print(72)
+print('hello')
