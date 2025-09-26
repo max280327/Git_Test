@@ -1,2 +1,6 @@
-print(1)
-print(10)
+print(72)
+
+name = 'Roma'
+print(len(name))
+print(name)
+print(type(name))
