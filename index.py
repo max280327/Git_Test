@@ -14,3 +14,4 @@ for i in range(10,20):
 
 name = 13
 print(type(name))
+print(name/2)
